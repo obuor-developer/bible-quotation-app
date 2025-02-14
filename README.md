@@ -1,1 +1,1 @@
-# bible-quotation-app
+# ai-bible-quotation-app
